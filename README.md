@@ -13,7 +13,15 @@
 - https://medium.com/@beefon/-8f206d21101d
 - https://medium.com/airbnb-engineering/introducing-epoxy-for-ios-6bf062be1670
 
+### Инструменты:
+- https://pasteapp.io
+- https://github.com/peripheryapp/periphery
+
 ### Ссылки на youtube:
 - https://www.youtube.com/watch?v=goBS0SZnmXU&list=PLNSmyatBJig6ZRDjAW2DdHTF4haXlHgrq&index=10
 - https://www.youtube.com/watch?v=ypPX8CJmRIY
 - https://www.youtube.com/watch?v=_0dHSeILciU&t=323s
+
+### Статистика:
+- https://www.brainscape.com/academy/keyboard-shortcuts-revive-economy/amp/
+- https://www.ratatype.com/learn/typing-speed-research-how-to-save-21-day-per-year-while-typing/
