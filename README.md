@@ -14,7 +14,6 @@
 - https://www.avanderlee.com/optimization/danger-plugins/
 - https://www.avanderlee.com/xcode/xcode-behaviours-optimized/
 - https://www.avanderlee.com/workflow/effective-development/
-- 
 
 ### Инструменты:
 - https://pasteapp.io
