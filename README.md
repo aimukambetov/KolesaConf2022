@@ -3,25 +3,17 @@
 ## Links
 
 ### Ссылки на статьи:
-- https://yalantis.com/blog/mastering-uikit-performance/
-- https://alistra.ghost.io/2014/10/01/aligned-uiviews/
-- https://medium.com/livefront/pdf-pitfalls-in-xcode-dc372bc0df5
-- https://bjango.com/articles/idontusepdfs/
-- https://www.avanderlee.com/xcode/svg-image-assets/
-- https://sarunw.com/posts/svg-image-assets-supported-in-xcode12/
-- https://medium.com/inloopx/uistackview-lessons-learned-e5841205f650
-- https://medium.com/@beefon/-8f206d21101d
-- https://medium.com/airbnb-engineering/introducing-epoxy-for-ios-6bf062be1670
+- https://betterprogramming.pub/improve-xcode-compile-and-run-time-8b8f812c17f8
+- https://www.pietrorea.com/2020/07/31/deleting-derived-data-with-automator
+- https://betterprogramming.pub/13-xcode-shortcuts-to-boost-your-productivity-329c90512309
+- https://www.avanderlee.com/optimization/developer-productivity-boost-with-google-search-tips-tricks/
+
 
 ### Инструменты:
 - https://pasteapp.io
 - https://github.com/peripheryapp/periphery
 
-### Ссылки на youtube:
-- https://www.youtube.com/watch?v=goBS0SZnmXU&list=PLNSmyatBJig6ZRDjAW2DdHTF4haXlHgrq&index=10
-- https://www.youtube.com/watch?v=ypPX8CJmRIY
-- https://www.youtube.com/watch?v=_0dHSeILciU&t=323s
-
 ### Статистика:
 - https://www.brainscape.com/academy/keyboard-shortcuts-revive-economy/amp/
 - https://www.ratatype.com/learn/typing-speed-research-how-to-save-21-day-per-year-while-typing/
+- http://www.bleum.com/how-to-turn-your-manual-testers-into-automation-testers/graph-automation-testing-vs-manual-testing-effort/
